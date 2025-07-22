@@ -15,8 +15,8 @@ int main() {
     return 0;
 }
 /*
-PS C:\Users\DELL\Desktop\C++> g++ L5.cpp -o L5
-PS C:\Users\DELL\Desktop\C++> .\L5.exe        
+PS C:\Users\DELL\Desktop\C++> g++ P1.cpp -o P1
+PS C:\Users\DELL\Desktop\C++> .\P1.exe        
 SIT 
 SIT
 SIT
