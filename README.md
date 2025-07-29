@@ -135,6 +135,18 @@ Step 3: Loop `i` from `n` down to `1`:
 
 Step 4: End
 
+**Program 10**
+
+Step 1: Start
+
+Step 2: Input number of rows `n`
+
+Step 3: Loop `i` from `n` down to `1`:  
+-Print `n-i` spaces  
+-Print `i` stars  
+-Move to next line
+
+Step 4: End
 
 **Conclusion**: This experiment demonstrates:
 - How loops are useful for repetitive tasks like counting and printing sequences.
