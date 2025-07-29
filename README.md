@@ -89,11 +89,11 @@ Step 2: Input number of rows `n`.
 
 Step 3: Loop `i` from 1 to `n`:  
 
--Print `n-1` spaces
+- Print `n-1` spaces
 
--Print `2*i-1` stars
+- Print `2*i-1` stars
 
--Move to next line
+- Move to next line
 
 Step 4: End
 
@@ -104,9 +104,9 @@ Step 1: Start
 Step 2: Input the number of rows `n`
 
 Step 3: Loop `i` from `n-i` down to `1`:  
-   -Print `n-i` spaces  
-   -Print `2*i-1` stars  
-   -Move to the next line
+   - Print `n-i` spaces  
+   - Print `2*i-1` stars  
+   - Move to the next line
 
 Step 4: End
 
@@ -117,9 +117,9 @@ Step 1: Start
 Step 2: Input number of rows `n`
 
 Step 3: Loop `i` from 1 to `n`:  
-  -Print `n-i` spaces  
-  -Print `i` stars  
-  -Move to next line
+  - Print `n-i` spaces  
+  - Print `i` stars
+  - Move to next line
 
 Step 4: End
 
@@ -130,8 +130,8 @@ Step 1: Start
 Step 2: Input number of rows `n`
 
 Step 3: Loop `i` from `n` down to `1`:  
--Print `i` stars  
--Move to next line
+- Print `i` stars  
+- Move to next line
 
 Step 4: End
 
@@ -142,9 +142,9 @@ Step 1: Start
 Step 2: Input number of rows `n`
 
 Step 3: Loop `i` from `n` down to `1`:  
--Print `n-i` spaces  
--Print `i` stars  
--Move to next line
+- Print `n-i` spaces  
+- Print `i` stars  
+- Move to next line
 
 Step 4: End
 
