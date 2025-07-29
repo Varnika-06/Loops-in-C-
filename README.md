@@ -65,6 +65,19 @@ Step 5. Else → print "Wrong Password"
 
 Step 6. Stop
 
+**Program 5**
+
+Step 1: Start
+
+Step 2: Declare integers `i`,`j`.
+
+Step 3: Loop `i` from 0 to 4:
+     -Loop `j` from 0 to `i`:
+          -Print `*` without a newline.
+     -After inner loop, print a newline (`endl`).
+
+Step 4: End
+
 **Conclusion**: This experiment demonstrates:
 - How loops are useful for repetitive tasks like counting and printing sequences.
 - How conditions inside loops help filter outputs (e.g., printing even numbers).
