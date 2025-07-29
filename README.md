@@ -78,6 +78,19 @@ Step 3: Loop `i` from 0 to 4:
 
 Step 4: End
 
+**Program 6**
+
+Step 1: Start
+
+Step 2: Input number of rows `n`.
+
+Step 3: Loop `i` from 1 to `n`:
+     -Print `n-1` spaces
+     -Print `2*i-1` stars
+     -Move to next line
+
+Step 4: End
+
 **Conclusion**: This experiment demonstrates:
 - How loops are useful for repetitive tasks like counting and printing sequences.
 - How conditions inside loops help filter outputs (e.g., printing even numbers).
