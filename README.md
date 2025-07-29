@@ -71,10 +71,10 @@ Step 1: Start
 
 Step 2: Declare integers `i`,`j`.
 
-Step 3: Loop `i` from 0 to 4:
-  -Loop `j` from 0 to `i`:
+Step 3: Loop `i` from 0 to 4:  
+-Loop `j` from 0 to `i`:  
   -Print `*` without a newline.
-  -After inner loop, print a newline (`endl`).
+-After inner loop, print a newline (`endl`).
 
 Step 4: End
 
@@ -84,10 +84,10 @@ Step 1: Start
 
 Step 2: Input number of rows `n`.
 
-Step 3: Loop `i` from 1 to `n`:
-  -Print `n-1` spaces
-  -Print `2*i-1` stars
-  -Move to next line
+Step 3: Loop `i` from 1 to `n`:  
+-Print `n-1` spaces
+-Print `2*i-1` stars
+-Move to next line
 
 Step 4: End
 
