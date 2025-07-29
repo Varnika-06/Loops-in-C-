@@ -1,7 +1,7 @@
 //Name: Varnika Maurya
 //PRN: 24070123160
 //Exp-6
-//Program 1
+//Program 5
 #include <iostream>
 using namespace std;
 int main() {
