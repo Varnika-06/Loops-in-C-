@@ -1,7 +1,7 @@
 //Name: Varnika Maurya
 //PRN: 24070123160
 //Exp-6
-//Program 8
+//Program 7
 #include <iostream>
 using namespace std;
 int main() {
@@ -21,8 +21,8 @@ int main() {
     return 0;
 }
 /*
-PS C:\Users\DELL\Desktop\C++> g++ P8.cpp -o P8
-PS C:\Users\DELL\Desktop\C++> .\P8.exe        
+PS C:\Users\DELL\Desktop\C++> g++ P7.cpp -o P7
+PS C:\Users\DELL\Desktop\C++> .\P7.exe        
 Enter the number of rows: 5
  *******
   *****
