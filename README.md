@@ -118,7 +118,7 @@ Step 2: Input number of rows `n`
 
 Step 3: Loop `i` from 1 to `n`:  
   -Print `n-i` spaces  
-  -Print `i` stars
+  -Print `i` stars  
   -Move to next line
 
 Step 4: End
